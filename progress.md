@@ -18,5 +18,15 @@
     -git hub documentation
     -bootstrap
     -	
+# Day 3
+- List of things learnt
+    -about css properties and attributes.
+    -playing around with styling of different html elements.
+    -application in the portfolio to meet the necessary styling requirements.
+
+- Any useful resource found
+    -w3schools
+    -
+    -	
 
 **Repeat this for all 7 days**
