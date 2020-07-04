@@ -28,5 +28,37 @@
     -w3schools
     -
     -	
+# Day 4
+- List of things learnt
+    -linking css files with html
+    -using selectors and combinators to style elements
 
-**Repeat this for all 7 days**
+- Any useful resource found
+    -w3schools
+    -youtube
+    -	
+# Day 5
+- List of things learnt
+    -javascript documentation for learning behaviour
+    -various event listeners and DOM manipulation
+
+- Any useful resource found
+    -w3schools
+    -mdn
+    -youtube
+# Day 6
+- List of things learnt
+    -added scroll listening for fadein effect using javascript
+
+- Any useful resource found
+    -w3schools
+    -youtube
+    -	
+# Day 7
+- List of things learnt
+    -learnt how to keep forked repo in sync with the upstream.
+    -making Pull requests.
+
+- Any useful resource found
+    -github documentation
+
